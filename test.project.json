@@ -1,0 +1,34 @@
+{
+    "name": "A_Star",
+    "tree": {
+        "$className": "DataModel",
+
+        "Workspace": {
+            "$className": "Workspace",
+
+            "A_StarTest": {
+                "$className": "Folder",
+
+                "Walls": {
+                    "$className": "Folder"
+                }
+            }
+        },
+
+        "ServerStorage": {
+            "$className": "ServerStorage",
+
+            "A_Star": {
+                "$path": "src"
+            }
+        },
+
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+
+            "A_StarTest": {
+                "$path": "test"
+            }
+        }
+    }
+}
